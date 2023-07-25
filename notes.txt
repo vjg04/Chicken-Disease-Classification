@@ -1,1 +1,12 @@
 template.py:Create folder structure
+
+git commands
+git add .
+git commit -m "msg"
+git push origin main
+git pull origin main
+
+conda create -n envname python=3.8
+conda activate envname
+
+pip install -r requirements.txt
